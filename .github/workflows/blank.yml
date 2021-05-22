@@ -37,3 +37,6 @@ jobs:
           cd ../content-api/
           npm install
           ls -alh
+      - name: Web Application
+        run: |
+          ls -alh
