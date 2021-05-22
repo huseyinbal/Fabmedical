@@ -34,3 +34,6 @@ jobs:
           echo test, and deploy your project.
           cd content-init/
           npm install
+          cd ../content-api/
+          npm install
+          ls -alh
