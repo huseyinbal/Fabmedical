@@ -40,3 +40,5 @@ jobs:
       - name: Web Application
         run: |
           ls -alh
+          npm install
+          npm run lint
