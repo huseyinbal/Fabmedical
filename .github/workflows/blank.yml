@@ -42,4 +42,4 @@ jobs:
           ls -alh
           cd content-web/
           npm install
-          npm run lint
+          npm run test
